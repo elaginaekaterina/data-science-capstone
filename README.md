@@ -5,7 +5,7 @@ Welcome to the IBM Data Science Capstone Project repository. In this project, we
 ## Contents
 This repository contains the following components:
 
-**1. Getting data using the API:** This section focuses on retrieving data using the API.
+**1. Getting data using the API:** This section focuses on retrieving data using the API.\
 **2. Web scraping data from the Wikipedia site and data wrangling:** Here, we scrape relevant data from the Wikipedia site and perform data wrangling to prepare it for analysis.
 **3.Data processing, key indicators, and metrics:** In this section, we process the dataset, derive key indicators and metrics, and conduct exploratory data analysis (EDA) and feature engineering.
 **4.Location analysis and dashboard:** We work with maps to perform location analysis and create a dashboard to visualize the results.
@@ -13,21 +13,6 @@ This repository contains the following components:
 **6.Project report:** The insights and findings are summarized in the report, available in the SpaceX_project_report.pdf file.
 Please refer to the respective directories and files for detailed information and code related to each component.
 
-## Getting Started
-To get started with this project, follow these steps:
-
-Clone the repository to your local machine using the following command:
-bash
-Copy code
-git clone https://github.com/[your-username]/[repository-name].git
-Install the required dependencies and libraries as mentioned in the project files.
-
-Review the contents of each section and run the code cells to replicate the analysis and obtain the results.
-
-Refer to the project report (SpaceX_project_report.pdf) for a comprehensive summary of the insights and findings.
-
-Contributing
-We welcome contributions to enhance the project and explore further possibilities. If you have any suggestions, improvements, or bug fixes, please submit a pull request. Let's collaborate and make this project even better!
 
 ## Acknowledgments
 We would like to express our gratitude to IBM for providing the Data Science Professional Certificate program, which has equipped us with the knowledge and skills necessary for this project.
