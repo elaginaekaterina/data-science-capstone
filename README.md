@@ -15,11 +15,11 @@ Please refer to the respective directories and files for detailed information an
 
 
 ## Acknowledgments
-We would like to express our gratitude to IBM for providing the Data Science Professional Certificate program, which has equipped us with the knowledge and skills necessary for this project.
+I would like to express our gratitude to IBM for providing the Data Science Professional Certificate program, which has equipped us with the knowledge and skills necessary for this project.
 
 ## License
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code as per the terms of the license.
 
-We hope you find this project insightful and valuable. Feel free to explore the repository and delve into the exciting world of predicting Falcon 9 first stage landings!
+I hope you find this project insightful and valuable. Feel free to explore the repository and delve into the exciting world of predicting Falcon 9 first stage landings!
 
 Note: This README file provides an overview of the project and its contents. For detailed information, please refer to the individual files and directories within the repository.
