@@ -6,10 +6,10 @@ Welcome to the IBM Data Science Capstone Project repository. In this project, we
 This repository contains the following components:
 
 **1. Getting data using the API:** This section focuses on retrieving data using the API.\
-**2. Web scraping data from the Wikipedia site and data wrangling:** Here, we scrape relevant data from the Wikipedia site and perform data wrangling to prepare it for analysis.
-**3.Data processing, key indicators, and metrics:** In this section, we process the dataset, derive key indicators and metrics, and conduct exploratory data analysis (EDA) and feature engineering.
-**4.Location analysis and dashboard:** We work with maps to perform location analysis and create a dashboard to visualize the results.
-**5. ML algorithm selection and evaluation:** Various machine learning algorithms are analyzed and evaluated to identify the best one for our data.
+**2. Web scraping data from the Wikipedia site and data wrangling:** Here, we scrape relevant data from the Wikipedia site and perform data wrangling to prepare it for analysis.\
+**3.Data processing, key indicators, and metrics:** In this section, we process the dataset, derive key indicators and metrics, and conduct exploratory data analysis (EDA) and feature engineering.\
+**4.Location analysis and dashboard:** We work with maps to perform location analysis and create a dashboard to visualize the results.\
+**5. ML algorithm selection and evaluation:** Various machine learning algorithms are analyzed and evaluated to identify the best one for our data.\
 **6.Project report:** The insights and findings are summarized in the report, available in the SpaceX_project_report.pdf file.
 Please refer to the respective directories and files for detailed information and code related to each component.
 
